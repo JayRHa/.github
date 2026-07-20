@@ -1,10 +1,10 @@
 <!-- jr-brand:start -->
 <div align="center">
   <a href="https://jannikreinhard.com/">
-    <img src="https://raw.githubusercontent.com/JayRHa/.github/main/assets/readme/collection.svg" alt="Jannik Reinhard — AI, Cloud and Endpoint Management" width="100%">
+    <img src="https://raw.githubusercontent.com/JayRHa/.github/main/assets/readme/tool.svg" alt="Jannik Reinhard — AI, Cloud and Endpoint Management" width="100%">
   </a>
-  <h1>Jannik Reinhard · Community Standards</h1>
-  <p><strong>Shared community health files and README standards for my open-source projects.</strong></p>
+  <h1>Project Name</h1>
+  <p><strong>A short, concrete sentence explaining what the project does.</strong></p>
   <p>
   <a href="https://jannikreinhard.com/"><img src="https://img.shields.io/badge/Website-0A5FC0?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="Website"></a>
   <a href="https://github.com/JayRHa"><img src="https://img.shields.io/badge/GitHub-081427?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
@@ -12,28 +12,43 @@
   <a href="https://x.com/jannik_reinhard"><img src="https://img.shields.io/badge/X-081427?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X"></a>
   <a href="https://www.youtube.com/@ModernDevMgmt/featured"><img src="https://img.shields.io/badge/YouTube-0A5FC0?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube"></a>
 </p>
-  <p><sub>Community · Standards · Shared Assets · Documentation · Practical by design</sub></p>
+  <p><sub>Tool · App · CLI · Primary technology · Practical by design</sub></p>
 </div>
 <!-- jr-brand:end -->
 
-## What You Find Here
+## Overview
 
-This repository contains the shared community files and the visual README system used across my public GitHub projects.
+Explain the operational problem in one short paragraph.
 
-- Contribution and support guidance
-- Security reporting information
-- Three README templates for tools, collections and learning repositories
-- Shared brand assets based on the design system from jannikreinhard.com
+## Features
 
-## README Templates
+- Concrete capability
+- Concrete capability
+- Concrete capability
 
-| Template | Best For |
-| --- | --- |
-| [Tool](readme-templates/TOOL.md) | Apps, CLIs and operational tools |
-| [Collection](readme-templates/COLLECTION.md) | Scripts, dashboards and resource libraries |
-| [Learning](readme-templates/LEARNING.md) | Book code, runnable samples and architecture patterns |
+## How It Works
 
-The complete rules are documented in [README_STYLE.md](README_STYLE.md).
+Explain the workflow or include a focused Mermaid diagram.
+
+## Quickstart
+
+Add the shortest working setup.
+
+## Usage
+
+Show one runnable example.
+
+## Configuration
+
+Document required settings and permissions.
+
+## Troubleshooting
+
+List the issues users are most likely to hit.
+
+## License
+
+This project is available under the terms in [LICENSE](LICENSE).
 
 <!-- jr-brand-footer:start -->
 

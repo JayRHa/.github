@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img">
+  <title>Jannik Reinhard — Open source, ready to use.</title>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4ADEDD"/>
+      <stop offset=".55" stop-color="#0795FF"/>
+      <stop offset="1" stop-color="#0A5FC0"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#D8E3F2" opacity=".16"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="#081427"/>
+  <rect width="1200" height="280" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="7" rx="3.5" fill="url(#accent)"/>
+  <circle cx="112" cy="98" r="46" fill="none" stroke="#0795FF" stroke-width="5"/>
+  <path d="M77 106h70c12 0 21-9 21-20s-9-20-21-20c-7 0-13 3-17 8-6-17-21-28-39-28-22 0-39 17-41 38-12 2-21 11-21 23 0 12 9 21 21 21h27" transform="translate(30 10) scale(.62)" fill="none" stroke="#4ADEDD" stroke-width="8" stroke-linecap="round"/>
+  <path d="M112 132v24M82 156h60M82 156v20M112 156v20M142 156v20" fill="none" stroke="#0795FF" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="82" cy="180" r="7" fill="#4ADEDD"/><circle cx="112" cy="180" r="7" fill="#0795FF"/><circle cx="142" cy="180" r="7" fill="#0A5FC0"/>
+  <text x="205" y="72" fill="#4ADEDD" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">SCRIPTS · RESOURCES · COMMUNITY</text>
+  <text x="205" y="129" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="-.5">Open source, ready to use.</text>
+  <text x="205" y="169" fill="#C7D5E5" font-family="Arial, Helvetica, sans-serif" font-size="21">Practical scripts and resources for administrators.</text>
+  <text x="205" y="222" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.4">JANNIK REINHARD</text>
+  <text x="408" y="222" fill="#7088A3" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="1.8">AI · CLOUD · ENDPOINT MANAGEMENT</text>
+</svg>
