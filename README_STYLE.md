@@ -24,7 +24,8 @@ Every README links to:
 - [GitHub](https://github.com/JayRHa)
 - [LinkedIn](https://www.linkedin.com/in/jannik-r/)
 - [X](https://x.com/jannik_reinhard)
-- [YouTube](https://www.youtube.com/@ModernDevMgmt/featured)
+- [YouTube](https://www.youtube.com/@jannikreinhard)
+- [TikTok](https://www.tiktok.com/@jannikreinhard)
 
 ## Writing Rules
 
