@@ -25,7 +25,7 @@ Every README links to:
 - [LinkedIn](https://www.linkedin.com/in/jannik-r/)
 - [X](https://x.com/jannik_reinhard)
 - [YouTube](https://www.youtube.com/@jannikreinhard)
-- [TikTok](https://www.tiktok.com/@jannikreinhard)
+- [TikTok](https://www.tiktok.com/@jannik_reinhard)
 
 ## Writing Rules
 
