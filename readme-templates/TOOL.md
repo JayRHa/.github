@@ -11,7 +11,6 @@
   <a href="https://www.linkedin.com/in/jannik-r/"><img src="https://img.shields.io/badge/LinkedIn-0795FF?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/jannik_reinhard"><img src="https://img.shields.io/badge/X-081427?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X"></a>
   <a href="https://www.youtube.com/@jannikreinhard"><img src="https://img.shields.io/badge/YouTube-146CDD?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube"></a>
-  <a href="https://www.tiktok.com/@jannik_reinhard"><img src="https://img.shields.io/badge/TikTok-081427?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok"></a>
 </p>
   <p><sub>Tool · App · CLI · Primary technology · Practical by design</sub></p>
 </div>
