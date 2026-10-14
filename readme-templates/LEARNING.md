@@ -1,53 +1,47 @@
 <!-- jr-brand:start -->
-<div align="center">
+<p align="center">
   <a href="https://jannikreinhard.com/">
-    <img src="https://raw.githubusercontent.com/JayRHa/.github/main/assets/readme/learning.svg" alt="Jannik Reinhard — secure AI agents, Microsoft Foundry, Intune and Azure" width="100%">
+    <img src="https://raw.githubusercontent.com/JayRHa/.github/main/assets/readme/brand-header.png" alt="Jannik Reinhard — I help enterprises ship secure AI agents" width="100%">
   </a>
-  <h1>Project Name</h1>
-  <p><strong>Runnable examples that make a Microsoft cloud topic easier to understand.</strong></p>
-  <p>
-  <a href="https://jannikreinhard.com/"><img src="https://img.shields.io/badge/Website-0A5FC0?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="Website"></a>
-  <a href="https://github.com/JayRHa"><img src="https://img.shields.io/badge/GitHub-081427?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/jannik-r/"><img src="https://img.shields.io/badge/LinkedIn-0795FF?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/jannik_reinhard"><img src="https://img.shields.io/badge/X-081427?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X"></a>
-  <a href="https://www.youtube.com/@jannikreinhard"><img src="https://img.shields.io/badge/YouTube-146CDD?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube"></a>
 </p>
-  <p><sub>Book · Sample · Pattern · Primary technology · Practical by design</sub></p>
-</div>
+<p align="center">
+  <a href="https://jannikreinhard.com/">Website</a> ·
+  <a href="https://www.linkedin.com/in/jannik-r/">LinkedIn</a> ·
+  <a href="https://x.com/jannik_reinhard">X</a> ·
+  <a href="https://www.youtube.com/@jannikreinhard">YouTube</a>
+</p>
 <!-- jr-brand:end -->
 
-## About This Repository
+# Project title
 
-Explain the book, sample or learning goal.
+**Type:** Book, example or lab · **Status:** Community project
 
-## Start Here
+## Overview
 
-Show the shortest path to the first working example.
+Describe the concrete problem, intended audience and scope. Replace this guidance with project-specific content.
 
-## Examples or Chapters
+## Requirements
 
-Map folders to the concepts they demonstrate.
+Document the actual runtime, configuration and permissions required by this project.
 
-## Prerequisites
+## Quickstart
 
-List only what is required to run the examples.
+Add the shortest verified setup and first useful operation. Use the repository's current name in clone commands.
 
-## Related Resources
+## Examples and chapters
 
-Link to the book, article or companion repositories.
+Link to the actual examples, resources or commands.
+
+## Configuration and troubleshooting
+
+Explain the settings and failure modes relevant to this project.
 
 ## License
 
-This project is available under the terms in [LICENSE](LICENSE).
+Link to the existing license and preserve its terms.
 
 <!-- jr-brand-footer:start -->
-
 ---
 
-<div align="center">
-  <p><sub>Built and maintained by <a href="https://jannikreinhard.com/">Jannik Reinhard</a> · Microsoft MVP for Security and AI Platform.</sub></p>
-  <p><a href="https://www.buymeacoffee.com/jannikreinf">Support the open-source work</a></p>
-  <p><strong>Stay healthy, Cheers Jannik</strong></p>
-</div>
-
+[Articles and guides](https://jannikreinhard.com/) · [Repository index](https://github.com/JayRHa/.github/blob/main/REPOSITORIES.md)
 <!-- jr-brand-footer:end -->

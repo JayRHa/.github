@@ -1,48 +1,47 @@
 <!-- jr-brand:start -->
-<div align="center">
+<p align="center">
   <a href="https://jannikreinhard.com/">
-    <img src="https://raw.githubusercontent.com/JayRHa/.github/main/assets/readme/brand-header.png" alt="Jannik Reinhard — Driving AI with passion" width="100%">
+    <img src="https://raw.githubusercontent.com/JayRHa/.github/main/assets/readme/brand-header.png" alt="Jannik Reinhard — I help enterprises ship secure AI agents" width="100%">
   </a>
-  <h1>Jannik Reinhard · Community Standards</h1>
-  <p><strong>Default community health files for repositories owned by JayRHa</strong></p>
-  <p>
-  <a href="https://jannikreinhard.com/"><img src="https://img.shields.io/badge/Website-146CDD?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="Website"></a>
-  <a href="https://github.com/JayRHa"><img src="https://img.shields.io/badge/GitHub-081427?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/jannik-r/"><img src="https://img.shields.io/badge/LinkedIn-0795FF?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/jannik_reinhard"><img src="https://img.shields.io/badge/X-081427?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X"></a>
-  <a href="https://www.youtube.com/@jannikreinhard"><img src="https://img.shields.io/badge/YouTube-146CDD?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube"></a>
-  </p>
-  <p><sub>Driving AI with passion · Microsoft Foundry · Intune · Azure</sub></p>
-</div>
+</p>
+<p align="center">
+  <a href="https://jannikreinhard.com/">Website</a> ·
+  <a href="https://www.linkedin.com/in/jannik-r/">LinkedIn</a> ·
+  <a href="https://x.com/jannik_reinhard">X</a> ·
+  <a href="https://www.youtube.com/@jannikreinhard">YouTube</a>
+</p>
 <!-- jr-brand:end -->
 
-## What You Find Here
+# Community standards
 
-This repository contains the shared community files and the visual README system used across my public GitHub projects.
+Shared documentation, README templates and branding for repositories maintained under [JayRHa](https://github.com/JayRHa).
 
-- Contribution and support guidance
-- Security reporting information
-- Three README templates for tools, collections and learning repositories
-- Shared brand assets based on the design system from jannikreinhard.com
+## Start here
 
-## README Templates
+- [Repository index](REPOSITORIES.md): public tools, examples, book code and archived references.
+- [Naming conventions](REPOSITORY_NAMING.md): how repository names are formed.
+- [README style](README_STYLE.md): structure, language, branding and content rules.
 
-| Template | Best For |
+## README templates
+
+| Template | Use it for |
 | --- | --- |
-| [Tool](readme-templates/TOOL.md) | Apps, CLIs and operational tools |
-| [Collection](readme-templates/COLLECTION.md) | Scripts, dashboards and resource libraries |
-| [Learning](readme-templates/LEARNING.md) | Book code, runnable samples and architecture patterns |
+| [Tool](readme-templates/TOOL.md) | Applications, CLIs and operational tools |
+| [Collection](readme-templates/COLLECTION.md) | Script collections, dashboards and reference libraries |
+| [Learning](readme-templates/LEARNING.md) | Book code, examples and labs |
 
-The complete rules are documented in [README_STYLE.md](README_STYLE.md).
+## Community files
+
+[Contributing](CONTRIBUTING.md) · [Support](SUPPORT.md) · [Security reporting](SECURITY.md) · [Code of conduct](CODE_OF_CONDUCT.md)
+
+## Brand assets
+
+The shared [README header](assets/readme/brand-header.png) uses the Jannik Reinhard brand: ink `#081427`, blue `#146CDD`, secondary blue `#0795FF` and cyan `#4ADEDD`.
+
+The public brand identity belongs in the header. Technical documentation stays specific to the project; no repeated biography or sign-off is added at the end.
 
 <!-- jr-brand-footer:start -->
-
 ---
 
-<div align="center">
-  <p><sub>Built and maintained by <a href="https://jannikreinhard.com/">Jannik Reinhard</a> · Microsoft MVP for Security and AI Platform.</sub></p>
-  <p><a href="https://www.buymeacoffee.com/jannikreinf">Support the open-source work</a></p>
-  <p><strong>Stay healthy, Cheers Jannik</strong></p>
-</div>
-
+[Articles and guides](https://jannikreinhard.com/) · [Repository index](https://github.com/JayRHa/.github/blob/main/REPOSITORIES.md)
 <!-- jr-brand-footer:end -->

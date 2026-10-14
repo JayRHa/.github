@@ -1,47 +1,42 @@
-# README Style
+# README style
 
-This is the shared README system for repositories owned by Jannik Reinhard.
+Use this shared system for repositories under JayRHa. Preserve working commands, technical qualifications, original authorship and license terms.
 
 ## Brand
 
-- Ink: `#081427`
-- Primary blue: `#0A5FC0`
-- Secondary blue: `#0795FF`
-- Cyan accent: `#4ADEDD`
-- Voice: simple, clear, helpful and based on real production experience
+- Brand: Jannik Reinhard. Positioning: I help enterprises ship secure AI agents.
+- Colors: ink `#081427`, primary blue `#146CDD`, secondary blue `#0795FF`, cyan `#4ADEDD`.
+- Artwork: Inter Tight for display text and Inter for body text. GitHub supplies the README text font.
+- Use the shared header at `assets/readme/brand-header.png` in this repository.
+- Link to Website, LinkedIn, X and YouTube. Do not add TikTok to shared branding.
+- End with useful resource links, without a biography, credentials or a sign-off.
 
-## Required Header
+## Structure
 
-Use exactly one of the three templates in [readme-templates](readme-templates):
+1. Shared header inside `jr-brand:start/end` markers.
+2. One H1 with the human-readable project title.
+3. Project type and factual status: community project, private project or archived reference.
+4. Overview: the real purpose, audience and scope.
+5. Requirements, when the project documents them.
+6. Quickstart: the shortest documented path to using the project.
+7. Project-specific reference, configuration, examples, architecture and troubleshooting.
+8. Actual license terms or a link to the existing license file.
+9. Shared resource links inside `jr-brand-footer:start/end` markers.
 
-1. Tool for apps, CLIs and operational tools
-2. Collection for scripts, dashboards and resource libraries
-3. Learning for book code, samples and architecture patterns
+Profiles and community indexes use navigation instead of a software quickstart. Forks identify the upstream project and preserve upstream documentation. Chapter and component READMEs keep their own technical structure.
 
-Every README links to:
+## Writing
 
-- [Website](https://jannikreinhard.com/)
-- [GitHub](https://github.com/JayRHa)
-- [LinkedIn](https://www.linkedin.com/in/jannik-r/)
-- [X](https://x.com/jannik_reinhard)
-- [YouTube](https://www.youtube.com/@jannikreinhard)
+Use clear English for public technical repositories. Preserve German in German-language products and translations. Use sentence case for new headings, and keep existing heading anchors when restructuring a document.
 
-## Writing Rules
+Explain what exists. Do not call code production-ready, tested or the largest unless the claim is supported. Do not invent versions, permissions, results, screenshots or setup commands. Keep necessary safety information beside the operation it describes.
 
-- Write in simple, clear English.
-- Start with the real problem and what the project helps the reader do.
-- Prefer short sentences and runnable examples.
-- Do not use generic marketing language.
-- Use Title Case for headings.
-- Use one H1 only.
-- Use `Quickstart` consistently.
-- Keep metric badges out of the README. GitHub already shows stars, forks and issues.
-- Put detailed API references and long architecture notes in `docs/`.
-- End with the actual license and the standard Jannik Reinhard footer.
+Do not replace useful instructions with generic portfolio text. Preserve original authorship and license notices in forks and imported documentation.
 
-## Images and Diagrams
+## Naming and links
 
-- Use screenshots only when they help the user complete a task.
-- Store repository images in `assets/` or `docs/assets/`.
-- Always include meaningful alt text.
-- Keep Mermaid diagrams focused on one flow.
+Follow [REPOSITORY_NAMING.md](REPOSITORY_NAMING.md). Use the current repository name in GitHub links and clone commands. Renaming a repository does not rename its package, CLI, infrastructure resource, application identifier or local project files.
+
+## Visual checks
+
+Use authentic screenshots with meaningful alt text. Keep diagrams focused. Verify a README in both light and dark GitHub themes when changing the shared header or template.
